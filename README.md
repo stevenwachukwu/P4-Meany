@@ -1,5 +1,7 @@
 Program 4: Prof. Meany and the Loser
+
 1 Goals of this Assignment
+
 In this assignment you will:
 1. Modify and use a tightly-coupled pair of C++ classes.
 2. To implement and use a circular linked list.
